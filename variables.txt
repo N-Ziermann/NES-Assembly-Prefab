@@ -1,0 +1,8 @@
+Sprites:
+
+starting at $0300
+
+
+Other:
+
+starting at $0100
